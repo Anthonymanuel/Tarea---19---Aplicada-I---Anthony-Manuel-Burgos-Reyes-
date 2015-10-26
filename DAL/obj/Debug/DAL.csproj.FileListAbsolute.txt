@@ -1,0 +1,10 @@
+C:\Users\AnthonyM\Downloads\Tarea-14--Aplicada-I---Anthony-Manuel-Burgos-Reyes--master\DAL\bin\Debug\DAL.dll
+C:\Users\AnthonyM\Downloads\Tarea-14--Aplicada-I---Anthony-Manuel-Burgos-Reyes--master\DAL\bin\Debug\DAL.pdb
+C:\Users\AnthonyM\Downloads\Tarea-14--Aplicada-I---Anthony-Manuel-Burgos-Reyes--master\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\AnthonyM\Downloads\Tarea-14--Aplicada-I---Anthony-Manuel-Burgos-Reyes--master\DAL\obj\Debug\DAL.dll
+C:\Users\AnthonyM\Downloads\Tarea-14--Aplicada-I---Anthony-Manuel-Burgos-Reyes--master\DAL\obj\Debug\DAL.pdb
+C:\Users\Root\Desktop\Tarea-14--Aplicada-I---Anthony-Manuel-Burgos-Reyes--master\DAL\bin\Debug\DAL.dll
+C:\Users\Root\Desktop\Tarea-14--Aplicada-I---Anthony-Manuel-Burgos-Reyes--master\DAL\bin\Debug\DAL.pdb
+C:\Users\Root\Desktop\Tarea-14--Aplicada-I---Anthony-Manuel-Burgos-Reyes--master\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Root\Desktop\Tarea-14--Aplicada-I---Anthony-Manuel-Burgos-Reyes--master\DAL\obj\Debug\DAL.dll
+C:\Users\Root\Desktop\Tarea-14--Aplicada-I---Anthony-Manuel-Burgos-Reyes--master\DAL\obj\Debug\DAL.pdb
